@@ -15,7 +15,7 @@ This project is a Supply Chain Management dashboard that provides real-time visi
 - Streamlit
 - SQLite
 - Pandas
-- 
+  
  ##  Database
 The project uses SQLite (`delivery.db`) to store shipment tracking data.  
 Each record represents a tracking update containing shipment ID, timestamp, location, and status.
